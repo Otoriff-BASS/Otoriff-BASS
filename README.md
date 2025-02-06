@@ -16,7 +16,7 @@
 ### ハッカソン参加
 - 大学講義内ハッカソンで[Line bot](https://github.com/HUTOSHI-souseidesign/Support_Camper)をチーム開発．**投票賞**を受賞．
 - VRChat内での開催「PNGミュージアム×エンジニア集会コラボハッカソン」において，MOFTをチーム開発．
-- NASA Space Apps Challnege において，[space tennis](https://vrchat.com/home/world/wrld_f1d265c6-c768-4997-b1d2-e39466fe57c7/info)をチーム開発．**最優秀賞**を受賞．
+- NASA Space Apps Challnege において，[space-tennis](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/space-tennis/)をチーム開発．**最優秀賞**を受賞．
 
 ## 今後チャレンジしたいこと
 - 自作シェーダー開発
