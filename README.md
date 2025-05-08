@@ -4,8 +4,9 @@
 ## 所属
 - [Code for Yamaguchi](https://codeforyamaguchi.org/) コアメンバー
 - Project"FuTiOOn"リーダー
-- [山口VRサークル"FUGU"](https://yamaguchi-vr-fugu.vercel.app/)初期メンバー
-- PNGミュージアム新スタッフ(ワールド班)
+- [山口VRサークル"FUGU"](https://yamaguchi-vr-fugu.vercel.app/)立ち上げメンバー
+- PNGミュージアムスタッフ(ワールド班)
+- [Iwaken lab.](https://www.iwakenlab.jp/) メンバー
 
 ## SNS等リンク
 - [Twitter](https://x.com/Otoriff_VR)
